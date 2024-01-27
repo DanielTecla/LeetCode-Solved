@@ -10,5 +10,3 @@ class Solution:
             ans += init[i]
         
         return ans
-
-
