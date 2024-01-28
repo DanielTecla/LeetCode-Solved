@@ -8,5 +8,4 @@ class Solution:
             else: 
                 count += 1
                 last_word = count
-
         return last_word
